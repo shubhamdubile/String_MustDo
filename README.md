@@ -18,4 +18,10 @@
     <td>https://practice.geeksforgeeks.org/problems/palindrome-string0817/1</td>
     <td>GeeksforGeeks</td>
   </tr>
+  <tr>
+    <td>03</td>
+    <td>Print all the duplicates in the input string</td>
+    <td>https://ide.geeksforgeeks.org/h2H7tvYdmB</td>
+    <td>GeeksforGeeks</td>
+  </tr>
 </table>
