@@ -24,4 +24,10 @@
     <td>https://ide.geeksforgeeks.org/h2H7tvYdmB</td>
     <td>GeeksforGeeks</td>
   </tr>
+  <tr>
+    <td>05</td>
+    <td>A Program to check if strings are rotations of each other or not</td>
+    <td>https://ide.geeksforgeeks.org/JxUmHM5qHN</td>
+    <td>GeeksforGeeks</td>
+  </tr>
 </table>
